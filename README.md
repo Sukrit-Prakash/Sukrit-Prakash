@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sukrit Prakash!  
 
-🌟  Software Engineer | MERN Stack Developer | Machine Learning and Artificial Enthusiast
+🌟  Software Engineer | MERN Stack Developer | Machine Learning and Artificial Intelligence Enthusiast
 
 I’m passionate about building impactful applications, solving challenging problems, and exploring new technologies. Whether it's crafting user-friendly web apps, diving into the depths of cybersecurity, or building AI-driven solutions, I'm always up for a challenge!
 
