@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sukrit Prakash!  
+# 👋 Hi, I'm Sukrit Prakash!   
 
 🌟  Software Engineer | MERN Stack Developer | Machine Learning and Artificial Intelligence Enthusiast
 
