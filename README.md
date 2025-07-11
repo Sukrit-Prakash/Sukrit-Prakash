@@ -2,7 +2,7 @@
 
 🌟  Software Engineer | MERN Stack Developer | Machine Learning and Artificial Intelligence Enthusiast
 
-I’m passionate about building impactful applications, solving challenging problems, and exploring new technologies. Whether it's crafting user-friendly web apps, diving into the depths of cybersecurity, or building AI-driven solutions, I'm always up for a challenge!
+I’m passionate about building impactful applications, solving challenging problems, and exploring new technologies. Whether it's crafting user-friendly android applications using React Native  or building AI-driven solutions, I'm always up for a challenge!
 
 ---
 
@@ -13,7 +13,7 @@ I’m passionate about building impactful applications, solving challenging prob
 - 🎸 **Hobbies:** Playing guitar and discussing thought-provoking ideas about productivity and technology.  
 - 🌱 **Learning:** React Native, Go (Golang), and Kubernetes for scalable app development.  
 - 🌐 **Tech Interests:**  
-  - Search Enging Optimization.  
+  - Android App Development.  
   - AI/ML-powered applications.  
   - Building modern web and mobile applications.  
 
@@ -25,7 +25,7 @@ Here’s what I use to bring ideas to life:
 
 - **Languages:** JavaScript (React.js, Node.js), Python, TypeScript, Go (beginner),.  
 - **Frontend:** React.js, Next.js, React Native, HTML, CSS, Canvas API.  
-- **Backend:** Flask, Express.js, Prisma, Firebase.  
+- **Backend:** Flask, Express.js, Sql,Redis, Firebase.  
 - **Databases:** MongoDB, SQLite.  
 - **Other Tools:** Docker, Kubernetes, OpenCV, Mediapipe, LangChain,Tensorflow.  
 
@@ -34,7 +34,7 @@ Here’s what I use to bring ideas to life:
 ## 🌟 Achievements  
 
 - 🏆 Participated in the **Smart India Hackathon**, presenting a tourism AI solution with a functional demo.  
-- 📜 Solved more than 500+ problems on leetcode  
+- 📜 Solved more than 1000+ problems on leetcode  
 - 💡 Built several innovative projects with a focus on real-world impact.  
 
 ---
@@ -48,9 +48,9 @@ Here’s what I use to bring ideas to life:
 
 ## 📫 Let's Connect!  
 
-- 🌐 **Portfolio:** [Sukrit-Prakash.com]([https://your-portfolio-link.com](https://portfolio-r4al.vercel.app/))  
-- 🐦 **Twitter:** [@Sukrit-Prakash]([https://twitter.com/yourusername](https://x.com/SukritPrakash_x))  
-- 💼 **LinkedIn:** [linkedin.com/in/Sukrit-Prakash]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/sukrit-prakash-singh-9a501b273/))  
+- 🌐 **Portfolio:** ((https://portfolio-r4al.vercel.app/))  
+- 🐦 **Twitter:** [@Sukrit-Prakash]((https://x.com/SukritPrakash_x))  
+- 💼 **LinkedIn:** [linkedin.com/in/Sukrit-Prakash]((https://www.linkedin.com/in/sukrit-prakash-singh-9a501b273/))  
 - 📧 **Email:** sukritprakash2020@gmail.com  
 
 Let’s build something amazing together! 🚀  
