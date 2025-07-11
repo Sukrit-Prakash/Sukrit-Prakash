@@ -9,7 +9,7 @@ I’m passionate about building impactful applications, solving challenging prob
 ## 🚀 About Me  
 
 - 🔭 **Currently:** Pursuing a degree in Software Engineering from Harcourt Butler Technical University.  
-- 💻 **Professional Experience:** MERN Stack Development Intern at **Maddycustom**, an e-commerce startup specializing in custom designs.  
+- 💻 **Professional Experience:** I Have worked as Stack Development Intern at **Maddycustom** for 8 months , an (e-commerce startup specializing in custom designs). Now I am working as Backend Development Intern at Global Network (a video streaming platform).  
 - 🎸 **Hobbies:** Playing guitar and discussing thought-provoking ideas about productivity and technology.  
 - 🌱 **Learning:** React Native, Go (Golang), and Kubernetes for scalable app development.  
 - 🌐 **Tech Interests:**  
